@@ -21,7 +21,3 @@ Hi, I'm Sayuyere, a passionate problem solver with a love for building scalable,
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=sayuyere&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sayuyere&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
-
-## Connect with me
-
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Sayuyere</a> Email: sauravkumarbhatt1234567890@gmail.com</p>
