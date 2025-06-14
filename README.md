@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **sauravkumarbhatt1234567890@gmail.com**
 
-- 📄 Know about my experiences [Not Adding For Now](Not Adding For Now)
-
 - ⚡ Fun fact **I get bored easily**
 
 <h3 align="left">Connect with me:</h3>
